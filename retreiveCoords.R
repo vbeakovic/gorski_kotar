@@ -1,11 +1,3 @@
-#### Libraries ####
-library(RJSONIO)
-library(purrr)
-
-#### Read in locations ####
-locationList <- read.csv("./data/locations.csv")
-
-
 #### Retreive location coordinates ####
 nrow <- nrow(locationList)
 counter <- 1
