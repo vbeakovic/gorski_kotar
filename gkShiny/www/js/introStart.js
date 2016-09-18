@@ -1,0 +1,1 @@
+javascript:introJs().setOption('showProgress', true).start();

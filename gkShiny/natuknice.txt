@@ -1,0 +1,10 @@
+#### T-Bond rate ####
+http://www.bloomberg.com/markets/rates-bonds/government-bonds/us
+10-godišnji T-Bond rate je 1.67%
+
+#### Country risk and premium ####
+http://aswathdamodaran.blogspot.hr/2016/01/january-2016-data-update-3-country-risk.html
+Za Hrvatsku je Equity risk premium 9.72%
+
+#### Prva estimacija ####
+Minimalni povrat bi tada trebao biti 1.67% + 9.72% = 11.39%
